@@ -1,5 +1,7 @@
 # playground-tf
 
+##### brew install gnu-getopt
+
 A framework for controlling multi-environment multi-component terraform-managed AWS infrastructure
 
 ## Overview
